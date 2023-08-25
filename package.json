@@ -1,0 +1,11 @@
+{
+  "name": "primeagen-problem",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./src/index.ts",
+  "scripts": {
+    "test": "npx tsx ./src/index.ts"
+  },
+  "author": "Nicolas Leal",
+  "license": "ISC"
+}
